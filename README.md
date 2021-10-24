@@ -1,15 +1,20 @@
 # Hello World 👋
 
 
-#### My name? Sumithra Sudhakar 💙
+#### My name? 🤔 Sumithra Sudhakar 💙
 
-#### What do I do ? Student at Amrita School of Engineering 💻
+#### What do I do ? 🤔 Student at Amrita School of Engineering 💻
 
-#### Currently working on Flutter 🌟
+#### What do I like to work on? 🤔 Currently working on Flutter 🌟
 
-#### Interested to learn more Frontend stuffs 😉
+#### What am I interested to learn? 🤔 more Frontend stuffs 😉
 
-#### 🔗[Find me here!!!]('https://www.linkedin.com/in/sumithra-sudhakar-33b37b202/')
+#### 🔗[Where else can you find me?!!!](https://www.linkedin.com/in/sumithra-sudhakar-33b37b202/)
+
+#### What else do I do other than coding ? Bharthanatyam Dancer 💃
+
+
+
 
 
 
